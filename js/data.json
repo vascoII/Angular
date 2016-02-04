@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Alexandre",
+    "shortname":"Alex",
+    "reknown":"Sculpture",
+    "bio":"Bla Bla Bla Bla Bla Bla"
+  },
+  {
+    "name":"Catherine",
+    "shortname":"Cathy",
+    "reknown":"Artiste",
+    "bio":"Bla Bla Bla Bla Bla Bla"
+  },	
+  {
+    "name":"Daniel",
+    "shortname":"Daniel",
+    "reknown":"New York",
+    "bio":"Bla Bla Bla Bla Bla Bla"
+  },	
+  {
+    "name":"Danielle",
+    "shortname":"Danielle",
+    "reknown":"Art",
+    "bio":"Bla Bla Bla Bla Bla Bla"
+  },	
+  {
+    "name":"Elodie Jerome",
+    "shortname":"Elodie",
+    "reknown":"Musicienne",
+    "bio":"Bla Bla Bla Bla Bla Bla"
+  },	
+  {
+    "name":"Jonathan",
+    "shortname":"Jonathan",
+    "reknown":"Peintre",
+    "bio":"Bla Bla Bla Bla Bla Bla"
+  },	
+  {
+    "name":"Maud",
+    "shortname":"Maud",
+    "reknown":"Pianiste",
+    "bio":"Bla Bla Bla Bla Bla Bla"
+  },	
+  {
+    "name":"Paul de Paule",
+    "shortname":"Paul",
+    "reknown":"Paris",
+    "bio":"Bla Bla Bla Bla Bla Bla"
+  },	
+  {
+    "name":"Steeve Ta",
+    "shortname":"Steeve",
+    "reknown":"Chine",
+    "bio":"Bla Bla Bla Bla Bla Bla"
+  }
+]
